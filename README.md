@@ -2,9 +2,6 @@
 
 # aipjm - AI Project Management Reports  
 
-
-## Project Team – IntelliTrace
-
 ## 👥 Team Members 
 
 --- 
@@ -481,5 +478,6 @@ React Ui app is also integrated with Winbuild registered Azure AD  , that alloow
 ┌──────────────────────────────────────────┐
 │ 5. Loads Home page                       │
 └──────────────────────────────────────────┘
+
 
 ```
